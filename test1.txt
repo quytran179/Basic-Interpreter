@@ -1,4 +1,4 @@
-100 LET X = 3
+beginning 100 LET X = 3
 110 LET Y = X - 5
 120 GOTO 160
 130 LET X = 4
